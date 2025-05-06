@@ -28,4 +28,4 @@ Alle Aufgaben müssen im Terminal (Shell) ausgeführt werden. Nicht in einem gra
 - lösche den Ordner "Lernphase 1"
 - lass dir den Inhalt von "Lerntagebuch_backup" ausgeben
 - finde heraus was ein Shell-Script ist
-- Optional Schreibe ein "Hello_World.sh" Shell Script und führe es aus
+- Optional: schreibe ein "Hello_World.sh" Shell Script und führe es aus
