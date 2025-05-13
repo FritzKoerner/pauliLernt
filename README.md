@@ -49,4 +49,17 @@ Gehe selbständig noch einmal alle Befehle durch die du an Tag 1 gelernt hast. S
 - Finde heraus was JavaScript ist und wozu es bentzt wird
 - Und für als letzte füge ein paar Interaktionen zu deiner Webseite hinzu. Eine Anleitung findest du [hier](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
 
+### TAG 3
 
+#### Javascript für Anfänger
+- Ich habe dir ein Tutorial rausgesucht bei dem alle Programmier-Basics behandelt werden, die in einem Introtest für das Studium drankommen könnten.
+In dem Tutorial wird mit Javascript gearbeitet, was du ja bereits etwas kennst.
+
+- Außerdem bekommst du ein Intro zu Node.js und VSCode, wenn du dazu fragen hast komm auf mich zu, Software-Setups sind oft am Anfang nervige Zeitfresser.
+- Das Tutorial behandelt alle gängigen Themen wie Variablen, Datentypen, Programmsturkturen, Opertationen.
+Bis zum Punkt 12 solltest du vor deinem Test kommen. Wenn du alles schaffst, und ich denke das wirst du easy, dann ist das eine gute Vorbereitung.
+
+- [Der Link zum Tutorial](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
+
+#### Git
+- Wenn du super fix bist, google "Git" und finde heraus wozu es gut ist. Das behandeln wir dann beim nächsten mal.
